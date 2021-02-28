@@ -6,7 +6,7 @@ import requests
 import smtplib
 
 my_email = "akshitgaur.sky21@gmail.com"
-my_password = "8xZ*XHKJ%7eJbB"
+my_password = "**********"
 your_email = "akshit.gaur1214@gmail.com"
 min_price = 16000
 URL = "https://www.amazon.in/Test-Exclusive-558/dp/B077PWJRFH/ref=sr_1_3?crid=3B8MXPYS0HK9I&dchild=1&keywords=xiaomi+redmi+note+9+pro&qid=1610969038&sprefix=xi%2Caps%2C381&sr=8-3"
